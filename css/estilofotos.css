@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@700&display=swap');
+
+/*                        ESTILOS DO NAVBAR E ESSENCIAIS                     */
+
+body{
+    background: black;
+    color: white;
+}
+
+nav#menu{
+    background: linear-gradient(55deg, black, rgba(0, 0, 0, 0.616));
+  }
+
+div#logotop{
+    font-family: 'Goldman', cursive;
+}
