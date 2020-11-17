@@ -6,6 +6,7 @@ body{
 
 nav#menu{
     background: linear-gradient(55deg, black, rgba(0, 0, 0, 0.616));
+    opacity: 85%;
   }
 
 div#logotop{
@@ -15,6 +16,17 @@ div#logotop{
 h1#produtoshome{
     font-family: 'Goldman', cursive;
     color: white
+}
+
+img#logoescritonav{
+    margin-left: 10px;
+    opacity: 100%;
+}
+
+div#creden{
+    font-family: Calibri, sans-serif;
+    font-size: 8pt;
+    color: white;
 }
 
 
