@@ -2,4 +2,9 @@
 Projeto e material de estudo sobre a utilização de Bootstrap para a criação de sites responsivos.
 
 ipadprovisao.png
-<img src="images/ipadprovisao.png" align="center" width="300">
+
+
+
+
+
+<img src="images/ipadprovisao.png" align="bottom" width="500">
